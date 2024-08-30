@@ -5,3 +5,5 @@ hello, my name is Nick Acosta
 yanks = 'yankees'
 w = 'wins'
 l = 'losses'
+
+git push -f
